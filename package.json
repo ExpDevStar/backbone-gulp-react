@@ -14,7 +14,7 @@
     "gulp-load": "~0.1.1",
     "connect-livereload": "~0.3.2",
     "tiny-lr": "0.0.5",
-    "express": "~4.0.0",
+    "express": "~4.17.1",
     "gulp-open": "~0.2.8",
     "gulp-compass": "~1.1.8",
     "karma": "~0.12.9",
